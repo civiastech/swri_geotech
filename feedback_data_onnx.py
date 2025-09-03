@@ -101,7 +101,7 @@ feedback_data = {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Engineer Visual inspection assessment and monitor for propagation.",
-        "priority": "Medium",
+        "priority": "High",
         "risk_weight": 8  # Added risk weight
     },
     "expose foundation wall": {
