@@ -1,145 +1,145 @@
 feedback_data = {
-    "Broken Basket": {
+    "broken basket": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Replace missing",
         "priority": "Medium",
          "risk_weight": 6  # Added risk weight
     },
-    "Crack on Asphalt": {
+    "crack on asphalt": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Visual inspection and monitor for propagation.",
         "priority": "Low",
-         "risk_weight": 4  # Added risk weight
+        "risk_weight": 4  # Added risk weight
     },
-    "Long Crack GBA ": {
+    "long crack gba ": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Visual inspection and monitor for propagation.",
         "priority": "Low",
-         "risk_weight": 4  # Added risk weight
+        "risk_weight": 4  # Added risk weight
     },
-        "Opening on the Wall": {
+        "opening on the wall": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Seal the gap immediately and assess wall integrity.",
         "priority": "Medium",
-         "risk_weight": 6  # Added risk weight
+        "risk_weight": 6  # Added risk weight
     },
-    "Opening on GBA": {
+    "opening on gba": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Seal the gap immediately and assess wall integrity.",
         "priority": "Low",
         "risk_weight": 4  # Added risk weight
     },
-    "Vegetation on Wall": {
+    "vegetation on wall": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Remove vegetation",
         "priority": "Low",
         "risk_weight": 4  # Added risk weight
     },
-    "Vegetation on Slope": {
+    "vegetation on slope": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Trim vegetation and verify slope drainage capacity.",
         "priority": "Low",
         "risk_weight": 4  # Added risk weight
     },
-    "Vertical Crack Wall 1": {
+    "vertical crack wall 1": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Seal the gap, Visual inspection and monitor for propagation.",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Vertical Crack Wall 2": {
+    "vertical crack wall 2": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Seal the gap, Visual inspection and monitor for propagation.",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Long Crack Wall 1": {
+    "long crack wall 1": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Seal the gap, Visual inspection and monitor for propagation.",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Long Crack Wall 2": {
+    "long crack wall 2": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Seal the gap, Visual inspection and monitor for propagation.",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Mesh Crack Wall": {
+    "mesh crack wall": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Visual inspection and monitor for propagation.",
         "priority": "Low",
         "risk_weight": 4  # Added risk weight
     },
-    "Vertical Crack GBA 1": {
+    "vertical crack gba 1": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Seal the gap, Visual inspection and monitor for propagation.",
         "priority": "Low",
         "risk_weight": 4  # Added risk weight
     },
-    "Vertical Crack GBA 2": {
+    "vertical crack gba 2": {
         "score": 2,
         "severity": "Low",
         "recommendation": "Seal the gap, Visual inspection and monitor for propagation.",
         "priority": "Low",
         "risk_weight": 4  # Added risk weight
     },
-    "Deformation Wall": {
+    "deformation wall": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Engineer Visual inspection assessment and monitor for propagation.",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Expose foundation wall": {
+    "expose foundation wall": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Visual inspection assessment and monitor for propagation.",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Basket Corrosion Wall": {
+    "basket corrosion wall": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Visual Inspection Routine",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Slope Deformation": {
+    "slope deformation": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Visual Inspection Routine",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Bulging Face": {
+    "bulging face": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Visual Inspection Routine",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Misalignment of wall": {
+    "misalignment of wall": {
         "score": 3,
         "severity": "Moderate",
         "recommendation": "Visual Inspection Routine",
         "priority": "Medium",
         "risk_weight": 6  # Added risk weight
     },
-    "Nothing to report": {
+    "nothing to report": {
         "score": 1,
         "severity": "Very Low",
         "recommendation": "Everything is okay",
